@@ -98,6 +98,6 @@ func main() {
 
 // Request sample
 // {
-// 	"title":"Post Three",
+// 	"title/Caption":"Post Three",
 // 	"username":{"firstname":"Harry","lastname":"Potter"}
 // }
